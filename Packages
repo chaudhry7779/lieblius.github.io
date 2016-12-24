@@ -11,3 +11,15 @@ Section: Tweaks
 Description: A test tweak
 Author: lieblius <ky@420blaze.it>
 Name: test
+
+Package: com.lieblius.respring10
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lieblius <ky@420blaze.it>
+Filename: /respring10.deb
+Size: 542168
+MD5sum: 3ae80151e5732e0abaca52ca7aad686a
+Section: Applications
+Description: A test app
+Author: lieblius <ky@420blaze.it>
+Name: respring10
