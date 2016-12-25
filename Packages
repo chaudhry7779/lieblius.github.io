@@ -13,13 +13,13 @@ Author: lieblius <ky@420blaze.it>
 Name: test
 
 Package: com.lieblius.respring10
-Version: 1.0
+Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: lieblius <ky@420blaze.it>
-Filename: /respring10.deb
-Size: 158164
-MD5sum: c4ebcfc097f230256389df6083640570
+Filename: /Respring10.deb
+Size: 158180
+MD5sum: aa739b51f8b9be66118612f970319e4b
 Section: Applications
-Description: Respring iOS 10
+Description: Respring application for iOS 10
 Author: lieblius <ky@420blaze.it>
-Name: respring10
+Name: Respring10

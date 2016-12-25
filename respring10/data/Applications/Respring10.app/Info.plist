@@ -10,7 +10,7 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>AppIcon50x50</string>
+				<string>AppIcon50x50.png</string>
 			</array>
 			<key>UIPrerenderedIcon</key>
 			<true/>
@@ -22,7 +22,7 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>AppIcon50x50</string>
+				<string>AppIcon50x50.png</string>
 			</array>
 			<key>UIPrerenderedIcon</key>
 			<true/>
